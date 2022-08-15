@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abuzkah
+- 👋 Hi, I’m @Abubakar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software Engeneering
 <!---
