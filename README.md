@@ -8,16 +8,16 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Abuzkah">
     <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/yourusername?tab=followers">
+  <a href="https://github.com/Abuzkah?tab=followers">
     <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers"/>
   </a>
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/Abuzkah?tab=repositories">
     <img src="https://img.shields.io/badge/REPOS-50+-orange?style=for-the-badge" alt="Repositories"/>
   </a>
-  <a href="https://wakatime.com/@yourusername">
+  <a href="https://wakatime.com/@abuzkah">
     <img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge" alt="Wakatime"/>
   </a>
 </div>
