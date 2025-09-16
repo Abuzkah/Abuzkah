@@ -27,9 +27,8 @@
 
 ```javascript
 const securityEngineer = {
-    name: "Your Name",
-    role: "Purple Team Security Analyst",
-    level: "Intermediate",
+    name: "Abubakar Nasteh",
+    role: "Cyber Security Analyst",
     location: "127.0.0.1",
     
     skills: {
