@@ -1,352 +1,224 @@
 # 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Security%20Engineer%20%7C%20Ethical%20Hacker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Secure%20Digital%20Infrastructure%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Purple%20Team%20Security&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bridging%20Offensive%20and%20Defensive%20Security&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%94%90+Cybersecurity+Specialist;%F0%9F%9B%A1%EF%B8%8F+Penetration+Tester;%F0%9F%92%BB+Security+Researcher;%F0%9F%8E%AF+Bug+Bounty+Hunter;%F0%9F%9A%80+DevSecOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+Security+Enthusiast;%F0%9F%94%8D+Vulnerability+Researcher;%F0%9F%92%BB+Ethical+Hacker;%F0%9F%9A%80+DevSecOps+Practitioner" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Abuzkah">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Abuzkah&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Abuzkah?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Abuzkah?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
   </a>
   <a href="https://github.com/Abuzkah?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOS-50+-orange?style=for-the-badge" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Public%20Repos-50-purple?style=flat-square" alt="Repositories"/>
   </a>
-  <a href="https://wakatime.com/@abuzkah">
-    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge" alt="Wakatime"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 ---
 
-## 🎖️ **Security Clearance Level: Maximum**
+## 💜 **About Me**
 
-<div align="center">
-  
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  ██████╗██╗   ██╗██████╗ ███████╗██████╗     ███████╗██╗   ██╗███████╗     ║
-║ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝╚██╗ ██╔╝██╔════╝     ║
-║ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████╗ ╚████╔╝ ███████╗     ║
-║ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ╚════██║  ╚██╔╝  ╚════██║     ║
-║ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ███████║   ██║   ███████║     ║
-║  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝   ╚═╝   ╚══════╝     ║
-║                                                                              ║
-║                    AUTHORIZED PERSONNEL ONLY - LEVEL 5                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+<img align="right" alt="Purple Team" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+```javascript
+const securityEngineer = {
+    name: "Your Name",
+    role: "Purple Team Security Analyst",
+    level: "Intermediate",
+    location: "127.0.0.1",
+    
+    skills: {
+        offensive: ["Penetration Testing", "Web App Security", "Network Recon"],
+        defensive: ["SIEM Management", "Incident Response", "Log Analysis"],
+        purple: ["Threat Emulation", "Security Automation", "Detection Engineering"]
+    },
+    
+    languages: ["Python", "JavaScript", "Bash", "PowerShell"],
+    
+    certifications: {
+        current: ["CompTIA Security+", "eJPT"],
+        pursuing: ["OSCP", "CySA+"]
+    },
+    
+    currentFocus: "Building detection rules based on red team tactics",
+    
+    funFact: "I break things responsibly to make them stronger 🔨🔧"
+};
 ```
 
-</div>
+## 🎯 **Current Objectives**
 
-## 👨‍💻 **About The Operator**
+- 🔴 **Red Team:** Learning advanced exploitation techniques and custom payload development
+- 🔵 **Blue Team:** Implementing detection strategies for common attack patterns
+- 💜 **Purple Team:** Building automated security testing pipelines and threat simulations
+- 📚 **Learning:** Cloud security, container security, and MITRE ATT&CK framework
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class CyberSecurityEngineer:
-    def __init__(self):
-        self.name = "Abubakar Nasteh"
-        self.role = "Cyber Security Engineer"
-        self.location = "127.0.0.1"
-        self.company = "@Fortune500"
-        self.languages = ["Python", "Go", "C++", "JavaScript", "Rust"]
-        self.specializations = {
-            "offensive": ["Penetration Testing", "Red Teaming", "Exploit Development"],
-            "defensive": ["SIEM", "Incident Response", "Threat Hunting"],
-            "research": ["Zero-Day Research", "Malware Analysis", "Reverse Engineering"]
-        }
-        self.certifications = ["OSCP", "OSCE", "CISSP", "CEH", "GPEN", "GCIH"]
-        self.current_focus = "Cloud Security & Zero Trust Architecture"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's make the digital world safer together 🛡️")
-
-me = CyberSecurityEngineer()
-me.say_hi()
-```
-
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&logo=offensive-security"/>
-  <img src="https://img.shields.io/badge/CEH-Certified-darkred?style=for-the-badge&logo=ec-council"/>
-  <img src="https://img.shields.io/badge/CISSP-Certified-green?style=for-the-badge&logo=isc2"/>
-  <img src="https://img.shields.io/badge/Security+-Certified-yellow?style=for-the-badge&logo=comptia"/>
-  <img src="https://img.shields.io/badge/GCIH-Certified-blue?style=for-the-badge&logo=giac"/>
-  <img src="https://img.shields.io/badge/AWS%20Security-Specialty-orange?style=for-the-badge&logo=amazon-aws"/>
-</div>
-
-## 🛠️ **Cyber Arsenal - Tech Stack**
+## 🛠️ **Technical Arsenal**
 
 <div align="center">
 
-### **🔐 Security Tools & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hashcat-342B6D?style=for-the-badge&logo=hashcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white"/>
-</p>
+### **Security Tools**
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
-### **💻 Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-</p>
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### **☁️ Cloud Security & DevSecOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-
-### **🗄️ SIEM & Monitoring**
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-</p>
-
-### **🔍 Frameworks & Standards**
-<p>
-  <img src="https://img.shields.io/badge/MITRE%20ATT&CK-FB0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NIST-003366?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ISO%2027001-0066CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CIS%20Controls-162C5E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge"/>
-</p>
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-## 📊 **GitHub Analytics Dashboard**
+## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abuzkah&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abuzkah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41" alt="GitHub Streak" />
-</div>
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies"/>
-</div>
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00FF41&line=00FF41&point=FF6633&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzkah&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🚀 **Featured Security Projects**
 
 <div align="center">
   
-<a href="https://github.com/yourusername/network-scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-scanner&theme=chartreuse-dark&hide_border=true" />
-</a>
-<a href="https://github.com/yourusername/web-vuln-scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=web-vuln-scanner&theme=chartreuse-dark&hide_border=true" />
-</a>
-<a href="https://github.com/yourusername/malware-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=malware-analyzer&theme=chartreuse-dark&hide_border=true" />
-</a>
-<a href="https://github.com/yourusername/password-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=password-manager&theme=chartreuse-dark&hide_border=true" />
-</a>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔍 **[Network Scanner](https://github.com/Abuzkah/network-scanner)** | Multi-threaded network discovery and port scanning tool | Python, Nmap, AsyncIO |
+| 🛡️ **[WAF Bypass Toolkit](https://github.com/Abuzkah/waf-bypass)** | Collection of WAF bypass techniques and payloads | Python, Requests, SQLMap |
+| 📊 **[SIEM Alert Tuner](https://github.com/Abuzkah/siem-tuner)** | Automated false positive reduction for SIEM alerts | Python, Splunk SDK, ML |
+| 🔐 **[Password Auditor](https://github.com/Abuzkah/pass-audit)** | Enterprise password policy compliance checker | Go, LDAP, Hashcat |
+| 🎯 **[Phishing Detector](https://github.com/Abuzkah/phish-detect)** | ML-based phishing email and URL detector | Python, Scikit-learn, Flask |
+| 🔄 **[Incident Responder](https://github.com/Abuzkah/ir-toolkit)** | Automated incident response and forensics toolkit | PowerShell, Python |
 
 </div>
 
-## 🎯 **Current Operations**
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔍 Active Research</h3>
-      <p>
-        • Zero-Day Vulnerability Research<br>
-        • Cloud Security Posture Management<br>
-        • AI/ML in Cybersecurity<br>
-        • Quantum-Resistant Cryptography<br>
-        • Supply Chain Security
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🛡️ Security Initiatives</h3>
-      <p>
-        • Building Open-Source Security Tools<br>
-        • Contributing to Bug Bounty Programs<br>
-        • Security Awareness Training<br>
-        • Threat Intelligence Platform<br>
-        • Zero Trust Architecture Implementation
-      </p>
-    </td>
-  </tr>
-</table>
-
-## 💼 **Professional Experience**
-
-<details>
-<summary><b>🏢 Click to View Work History</b></summary>
-<br>
-
-| Position | Company | Duration | Focus Areas |
-|----------|---------|----------|-------------|
-| **Senior Security Engineer** | Tech Giant Corp | 2023 - Present | Cloud Security, DevSecOps, Threat Modeling |
-| **Penetration Tester** | CyberSec Firm | 2021 - 2023 | Red Teaming, Web App Security, Network Pen Testing |
-| **Security Analyst** | Financial Institution | 2019 - 2021 | SIEM, Incident Response, Forensics |
-| **Junior Security Engineer** | Startup Inc | 2018 - 2019 | Security Automation, Vulnerability Management |
-
-</details>
-
-## 📚 **Latest Blog Posts & Research**
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 [Exploiting Cloud Misconfigurations: A Deep Dive](https://yourblog.com/cloud-misconfig)
-- 🛡️ [Building a Zero Trust Security Model from Scratch](https://yourblog.com/zero-trust)
-- 💻 [Advanced Persistence Techniques in Modern Malware](https://yourblog.com/apt-malware)
-- 🎯 [Bug Bounty Methodology: From Recon to Report](https://yourblog.com/bug-bounty)
-- 🔍 [Threat Hunting with MITRE ATT&CK Framework](https://yourblog.com/threat-hunting)
-<!-- BLOG-POST-LIST:END -->
-
-## 🏅 **Bug Bounty Stats**
+## 🏆 **Achievements & Certifications**
 
 <div align="center">
-  
-| Platform | Hall of Fame | Vulnerabilities | Severity |
-|----------|-------------|----------------|----------|
-| **HackerOne** | ✅ Top 100 | 150+ | 45 Critical |
-| **Bugcrowd** | ✅ MVP | 80+ | 23 Critical |
-| **Synack** | ✅ Elite | 60+ | 18 Critical |
-| **Intigriti** | ✅ Researcher | 40+ | 12 Critical |
+
+### **Active Certifications**
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-EA3C2A?style=for-the-badge&logo=comptia&logoColor=white)
+![eJPT](https://img.shields.io/badge/eJPT-Certified-4B0082?style=for-the-badge)
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### **In Progress**
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-FF0000?style=flat-square)
+![CySA+](https://img.shields.io/badge/CySA+-Studying-EA3C2A?style=flat-square)
 
 </div>
 
-## 🌐 **Community Contributions**
+## 🎮 **CTF & Training Platforms**
 
 <div align="center">
-  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-15k%20reputation-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/yourid)
-[![Reddit](https://img.shields.io/badge/Reddit-r/netsec%20Contributor-FF4500?style=for-the-badge&logo=reddit)](https://reddit.com/u/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-Security%20Server%20Mod-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/security)
+
+| Platform | Progress | Rank/Level | Focus |
+|----------|----------|------------|-------|
+| **TryHackMe** | ![](https://img.shields.io/badge/Rooms-150+-green?style=flat-square) | Top 5% | Offensive Security |
+| **HackTheBox** | ![](https://img.shields.io/badge/Machines-25+-yellow?style=flat-square) | Hacker | Penetration Testing |
+| **LetsDefend** | ![](https://img.shields.io/badge/Alerts-100+-blue?style=flat-square) | SOC Analyst | Blue Team |
+| **CyberDefenders** | ![](https://img.shields.io/badge/Challenges-30+-purple?style=flat-square) | Advanced | DFIR |
+| **PentesterLab** | ![](https://img.shields.io/badge/Badges-15+-orange?style=flat-square) | Pro | Web Security |
 
 </div>
 
-## 📊 **WakaTime Coding Stats**
+## 📚 **Recent Learning Path**
 
-<!--START_SECTION:waka-->
-```text
-Python          12 hrs 45 mins  ████████████░░░░░  65.23%
-Go              4 hrs 32 mins   ████░░░░░░░░░░░░░  23.21%
-JavaScript      1 hr 45 mins    ███░░░░░░░░░░░░░░   8.97%
-Bash            30 mins         ██░░░░░░░░░░░░░░░   2.59%
+```mermaid
+graph LR
+    A[Security Fundamentals] --> B[Network Security]
+    B --> C[Web Application Security]
+    C --> D[Cloud Security]
+    D --> E[DevSecOps]
+    E --> F[Threat Hunting]
+    F --> G[Purple Team Ops]
+    style G fill:#9D4EDD
 ```
-<!--END_SECTION:waka-->
 
-## 🎮 **CTF Achievements**
+## 💼 **Work Experience**
 
-<div align="center">
-  
-| CTF Platform | Global Rank | Points | Challenges |
-|--------------|------------|--------|------------|
-| **TryHackMe** | Top 40% | 50,000+ | 300+ Rooms |
-| **HackTheBox** | Pro Hacker | 100+ | 50+ Machines |
-| **PicoCTF** | Top 5000 | 10,000+ | All Categories |
-| **OverTheWire** | All Wargames | Complete | 100% |
+- 🔒 **Security Analyst** @Esoteric Strats *(2024 - Present)*
+  - Incident response and threat hunting
+  - Security tool implementation and tuning
+  - Purple team exercises coordination
 
-</div>
+- 🔍 **Junior Penetration Tester** @Rozalla Inc  *(2023 - 2024)*
+  - Web application and network penetration testing
+  - Security assessment reports
+  - Vulnerability remediation guidance
 
-## 🤝 **Connect & Collaborate**
+- 💻 **IT Support Specialist** @HDF *(2022 - 2023)*
+  - Security-focused IT support
+  - Basic security implementations
+  - User security awareness training
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Website](https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-[![Blog](https://img.shields.io/badge/Blog-Read-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+## 📝 **Latest Blog Posts & Write-ups**
 
-</div>
+- 📌 [Purple Team Exercise: Detecting Kerberoasting Attacks](https://medium.com/@yourusername)
+- 📌 [From SQLi to RCE: A HackTheBox Walkthrough](https://medium.com/@yourusername)
+- 📌 [Building a Home SOC Lab with Elastic Stack](https://medium.com/@yourusername)
+- 📌 [OSCP Prep: My Journey and Resources](https://medium.com/@yourusername)
+- 📌 [Automating Security Tasks with Python](https://medium.com/@yourusername)
 
-## 💰 **Support My Work**
+## 🤝 **Connect With Me**
 
 <div align="center">
   
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
-## 📜 **Random Dev Quote**
+## 💡 **Fun Facts**
 
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-## 🎵 **Vibing To**
-
-<div align="center">
-  
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-</div>
+- 🎯 Captured my first flag in 2022 and got addicted to CTFs
+- 📖 Currently reading: "The Art of Deception" by Kevin Mitnick
+- 🔐 Favorite vulnerability type: Logic flaws and race conditions
+- ☕ Powered by coffee and curiosity
+- 🎮 When not hacking: Gaming and building home labs
 
 ---
 
 <div align="center">
   
-### **🔐 Security Status: ACTIVE | 🛡️ Firewall: ENABLED | 🔍 Monitoring: 24/7**
+### 💜 **Purple Team Philosophy**
+  
+*"The best defense is understanding the offense, and the best offense respects the defense."*
 
-```javascript
-while (true) {
-    protectSystems();
-    huntThreats();
-    patchVulnerabilities();
-    stayVigilant();
-}
+```python
+while True:
+    learn()
+    hack()
+    defend()
+    automate()
+    repeat()
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-**"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."**  
-*- Gene Spafford*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=80&section=footer" width="100%"/>
 
 </div>
