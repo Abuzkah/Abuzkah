@@ -1,6 +1,6 @@
 # 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Cyber%20Security%20Specialist&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bridging%20Offensive%20and%20Defensive%20Security&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Cybersecurity%20Specialist&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bridging%20Offensive%20and%20Defensive%20Security&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
@@ -26,9 +26,9 @@
 <img align="right" alt="Purple Team" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ```javascript
-const securityEngineer = {
+const Cybersecurity Specialist = {
     name: "Abubakar Nasteh",
-    role: "Cyber Security Analyst",
+    role: "Cybersecurity Specialist",
     location: "127.0.0.1",
     
     skills: {
