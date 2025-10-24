@@ -26,9 +26,9 @@
 <img align="right" alt="Purple Team" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ```javascript
-const Cybersecurity Specialist = {
+const Cybersecurity Analyst = {
     name: "Abubakar Nasteh",
-    role: "Cybersecurity Specialist",
+    role: "Cybersecurity Analyst",
     location: "127.0.0.1",
     
     skills: {
