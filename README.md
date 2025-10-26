@@ -1,20 +1,20 @@
 # 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Cybersecurity%20Analyst&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bridging%20Offensive%20and%20Defensive%20Security&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Cybersecurity%20Analyst&fontSize=45&fontColor=fff&animation=twin"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+Security+Enthusiast;%F0%9F%94%8D+Vulnerability+Researcher;%F0%9F%92%BB+Ethical+Hacker;%F0%9F%9A%80+DevSecOps+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+Security+Enthusiast;Purple+Team+Operator"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Abuzkah">
-    <img src="https://komarev.com/ghpvc/?username=Abuzkah&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://github.com/bakr0x01">
+    <img src="https://komarev.com/ghpvc/?username=bakr0x01&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/Abuzkah?tab=followers">
-    <img src="https://img.shields.io/github/followers/Abuzkah?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
+  <a href="https://github.com/bakr0x01?tab=followers">
+    <img src="https://img.shields.io/github/followers/bakr0x01?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
   </a>
-  <a href="https://github.com/Abuzkah?tab=repositories">
+  <a href="https://github.com/bakr0x01?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-50-purple?style=flat-square" alt="Repositories"/>
   </a>
 </div>
@@ -91,12 +91,12 @@ const Cybersecurity Analyst = {
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abuzkah&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abuzkah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bakr0x01&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bakr0x01&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzkah&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakr0x01&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🚀 **Featured Security Projects**
@@ -140,6 +140,18 @@ const Cybersecurity Analyst = {
 | **LetsDefend** | ![](https://img.shields.io/badge/Alerts-100+-blue?style=flat-square) | SOC Analyst | Blue Team |
 | **CyberDefenders** | ![](https://img.shields.io/badge/Challenges-30+-purple?style=flat-square) | Advanced | DFIR |
 | **PentesterLab** | ![](https://img.shields.io/badge/Badges-15+-orange?style=flat-square) | Pro | Web Security |
+
+</div>
+
+<div align="center">
+
+<!-- TryHackMe profile and trophies -->
+
+[![TryHackMe - bakr0x01](https://img.shields.io/badge/TryHackMe-bakr0x01-blueviolet?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bakr0x01)
+
+<!-- Common public badge/ trophies image - if you want a different layout or a specific trophies image service, tell me and I can update -->
+
+[![TryHackMe Trophies](https://tryhackme-badges.s3.amazonaws.com/bakr0x01.png)](https://tryhackme.com/p/bakr0x01)
 
 </div>
 
