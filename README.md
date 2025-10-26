@@ -149,7 +149,8 @@ const CybersecurityAnalyst = {
 
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bakr0x01)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/bakr0x01.png" alt="TryHackMe Badge">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4681978" style='border:none;'></iframe>
+
 
 <!-- Alternative if the above doesn't work: -->
 <!-- 
