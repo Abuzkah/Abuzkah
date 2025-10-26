@@ -26,7 +26,7 @@
 <img align="right" alt="Purple Team" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ```javascript
-const Cybersecurity Analyst = {
+const CybersecurityAnalyst = {
     name: "Abubakar Nasteh",
     role: "Cybersecurity Analyst",
     location: "127.0.0.1",
@@ -88,21 +88,6 @@ const Cybersecurity Analyst = {
 
 </div>
 
-## 🧩 TryHackMe Profile
-
-<div align="center">
-[![TryHackMe - bakr0x01](https://img.shields.io/badge/TryHackMe-bakr0x01-blueviolet?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bakr0x01)
-
-<!-- Live-updating TryHackMe badge (iframe) -->
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4681978" style="border:none;width:100%;max-width:600px;height:220px;"></iframe>
-
-<br/>
-
-[![TryHackMe Trophies](https://tryhackme-badges.s3.amazonaws.com/bakr0x01.png)](https://tryhackme.com/p/bakr0x01)
-
-</div>
-
 ## 📊 **GitHub Statistics**
 
 <div align="center">
@@ -150,10 +135,28 @@ const Cybersecurity Analyst = {
 
 | Platform | Progress | Rank/Level | Focus |
 |----------|----------|------------|-------|
+| **TryHackMe** | ![](https://img.shields.io/badge/Rooms-150+-green?style=flat-square) | Top 1% | Offensive Security |
 | **HackTheBox** | ![](https://img.shields.io/badge/Machines-25+-yellow?style=flat-square) | Hacker | Penetration Testing |
 | **LetsDefend** | ![](https://img.shields.io/badge/Alerts-100+-blue?style=flat-square) | SOC Analyst | Blue Team |
 | **CyberDefenders** | ![](https://img.shields.io/badge/Challenges-30+-purple?style=flat-square) | Advanced | DFIR |
 | **PentesterLab** | ![](https://img.shields.io/badge/Badges-15+-orange?style=flat-square) | Pro | Web Security |
+
+</div>
+
+<div align="center">
+
+### 🎯 **TryHackMe Profile**
+
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bakr0x01)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/bakr0x01.png" alt="TryHackMe Badge">
+
+<!-- Alternative if the above doesn't work: -->
+<!-- 
+<a href="https://tryhackme.com/p/bakr0x01" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bakr0x01.png" alt="TryHackMe" />
+</a>
+-->
 
 </div>
 
