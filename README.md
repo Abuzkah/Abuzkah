@@ -151,7 +151,8 @@ const CybersecurityAnalyst = {
 
 <br/>
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4681978" alt="TryHackMe Badge"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bakr0x01.png" alt="Your Image Badge" />
+
 
 </div>
 
